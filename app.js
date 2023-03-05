@@ -376,3 +376,9 @@
 // tasks.forEach(task => {
 //   console.log(task);
 // });
+
+
+// customers load 
+// 
+
+// Load data from external API 
